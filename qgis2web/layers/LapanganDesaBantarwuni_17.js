@@ -1,0 +1,1 @@
+var json_LapanganDesaBantarwuni_17 = {"type":"FeatureCollection","name":"LapanganDesaBantarwuni_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":null,"Lebar":null},"geometry":{"type":"Point","coordinates":[109.269771719818266,-7.393794113353929]}}]}
